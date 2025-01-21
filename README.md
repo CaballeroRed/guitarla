@@ -1,2 +1,2 @@
 # guitarla
-guitarla carrito de compras
+guitarla carrito de compras, iniciando
